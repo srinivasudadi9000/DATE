@@ -1,0 +1,2 @@
+# DATES DISPLAYING IN BETWEEN IN ANDROID STUDIO
+![screenshot_1517465451](https://user-images.githubusercontent.com/25688281/35663762-eab05f48-0744-11e8-9554-5ef446e73229.png)
